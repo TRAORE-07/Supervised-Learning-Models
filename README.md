@@ -5,8 +5,9 @@ Code containing comments explaining the flow of work.
 1. Programming Language:
 - Python
 
-2. Most frequent libraries used:
+2. Libraries used:
 - Pandas
 - Numpy
 - Sklearn
 - Matplotlib
+- Seaborn
